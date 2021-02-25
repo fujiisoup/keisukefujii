@@ -3,24 +3,22 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+
+## Current position
+Assistant professor at  
+Department of Mechanical Engineering and Science, Graduate School of Engineering,  
+Kyoto University, Kyoto  
+
+助教 京都大学工学研究科 機械理工学専攻
+
+PhD of engineering (Kyoto university)  
+博士（工学）
+
+
+## Research summary
+I am working on atomic physics, plasma physics, and statistical physics.
+
+原子物理・プラズマ物理・統計物理
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
-
-<br/>
-
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
