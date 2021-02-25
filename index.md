@@ -21,11 +21,5 @@ I am working on atomic physics, plasma physics, and statistical physics.
 原子物理・プラズマ物理・統計物理
 
 
-## Recent publications
-1. 
-2. 
-
-[Full list of publications]()
-
 <br/>
 
