@@ -16,10 +16,15 @@ PhD of engineering (Kyoto university)
 
 
 ## Research summary
-I am working on atomic physics, plasma physics, and statistical physics.
+Working on atomic physics, plasma physics, and statistical physics.
 
 原子物理・プラズマ物理・統計物理
 
+### Research details
+- [多電子原子の発光線数は強度のべき乗に従う（日本語）](2021-02-25/Learners-law)
 
-<br/>
+## Other activities
+### Open source contribution
+I am a member of
+- xarray core developper
 

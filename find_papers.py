@@ -40,6 +40,16 @@ def get_firstauthor(details):
     return firstauthors
 
 
+def _print(detail):
+    for key, item in detail.items():
+        if 'items' in item.__dir__():
+            print(key)
+            for k, i in item.items():
+                print('\t{}\t{}'.format(k, i))
+        else:
+            print('{}\t{}'.format(key, item))
+
+
 def standarize(detail):
     if 'journal-issue' not in detail:
         detail['journal-issue'] = {}
@@ -54,9 +64,11 @@ def standarize(detail):
 
     if 'container-title' in detail:
         if len(detail['container-title']) == 0:
-            print(detail['doi'])
-            print(detail)
+            _print(detail['doi'])
+            _print(detail)
 
+    if 'volume' not in detail:
+        _print(detail)
     for author in detail['author']:
         if 'family' not in author:
             author['family'] = author['name']
@@ -147,11 +159,4 @@ if __name__ == '__main__':
     with open('./data/papers.csv', 'r') as f:
         doi_list = f.readlines()
     details = download_details(doi_list)
-    with open('./data/selected_papers.csv', 'r') as f:
-        selected_doi_list = f.readlines()
-    selected_details = download_details(selected_doi_list)
-    # with open('dois.txt', 'w') as f:
-    #     for detail in details:
-    #         f.write('{}\n'.format(detail))
     save_markdown(details, 'publications/index.md')
-    # save_cv1(details, 'private_papers.md')
