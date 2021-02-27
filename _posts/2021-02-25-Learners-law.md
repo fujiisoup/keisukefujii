@@ -86,7 +86,7 @@ $$
 これらを組み合わせると、強度 $$I$$ を持つ発光線の数は
 
 $$
-\rho(I) dI \propto \int_\Omega d\omega \rho_E(E - \omega) \rho_E(E) dE \propto I^{2kT_e / \epsilon_0 - 1} dI
+\rho(I) dI \propto \int_\Omega d\omega \rho_E(E - \omega) \rho_E(E) dE \propto I^{-2kT_e / \epsilon_0 - 1} dI
 $$
 
 ここで $$\Omega$$ は観測波長範囲を表します。
