@@ -3,93 +3,107 @@ layout: publications
 ---
 
 # List of selected papers
-1. **Simple Explanation for the Observed Power Law Distribution of Line Intensity in Complex Many-Electron Atoms**  
+1. **Power-Law Intensity Distribution of 
+γ
+-Decay Cascades: Nuclear Structure as a Scale-Free Random Network**  
  **<u>Keisuke Fujii</u>**, Julian C. Berengut  
- *Physical Review Letters* **124,** 185002 (2020)  
-<a href="https://doi.org/10.1103/physrevlett.124.185002">10.1103/physrevlett.124.185002</a>  
-
-2. **Study of neutral hydrogen transport in LHD core plasmas based on high dynamic-range Balmer-αspectroscopy**  
- **<u>K. Fujii</u>**, M. Goto, S. Morita,  The LHD Experiment Group  
- *Nuclear Fusion* **55,** 063029 (2015)  
-<a href="https://doi.org/10.1088/0029-5515/55/6/063029">10.1088/0029-5515/55/6/063029</a>  
-
-3. **Development of a high dynamic range spectroscopic system for observation of neutral hydrogen atom density distribution in Large Helical Device core plasma**  
- **<u>K. Fujii</u>**, S. Atsumi, S. Watanabe, T. Shikama, M. Goto, S. Morita, M. Hasuo  
- *Review of Scientific Instruments* **85,** 023502 (2014)  
-<a href="https://doi.org/10.1063/1.4863650">10.1063/1.4863650</a>  
-
-# List of papers (first- and corresponding-author)
-1. **Population kinetics of many-electron atoms in ionizing plasmas studied using a continuous collisional radiative model**  
- Akira Nishio, Julian C. Berengut, Masahiro Hasuo, **<u>Keisuke Fujii</u>**  
- *Physical Review E* **102,** 053211 (2020)  
-<a href="https://doi.org/10.1103/PhysRevE.102.053211">10.1103/PhysRevE.102.053211</a>  
+ *Physical Review Letters* **126,** 102502 (2021)  
+<a href="https://doi.org/10.1103/PhysRevLett.126.102502">10.1103/PhysRevLett.126.102502</a>  
 
 2. **Simple Explanation for the Observed Power Law Distribution of Line Intensity in Complex Many-Electron Atoms**  
  **<u>Keisuke Fujii</u>**, Julian C. Berengut  
  *Physical Review Letters* **124,** 185002 (2020)  
 <a href="https://doi.org/10.1103/physrevlett.124.185002">10.1103/physrevlett.124.185002</a>  
 
-3. **Robust Regression for Automatic Fusion Plasma Analysis Based on Generative Modeling**  
+3. **Study of neutral hydrogen transport in LHD core plasmas based on high dynamic-range Balmer-αspectroscopy**  
+ **<u>K. Fujii</u>**, M. Goto, S. Morita,  The LHD Experiment Group  
+ *Nuclear Fusion* **55,** 063029 (2015)  
+<a href="https://doi.org/10.1088/0029-5515/55/6/063029">10.1088/0029-5515/55/6/063029</a>  
+
+4. **Development of a high dynamic range spectroscopic system for observation of neutral hydrogen atom density distribution in Large Helical Device core plasma**  
+ **<u>K. Fujii</u>**, S. Atsumi, S. Watanabe, T. Shikama, M. Goto, S. Morita, M. Hasuo  
+ *Review of Scientific Instruments* **85,** 023502 (2014)  
+<a href="https://doi.org/10.1063/1.4863650">10.1063/1.4863650</a>  
+
+# List of papers (first- and corresponding-author)
+1. **Power-Law Intensity Distribution of 
+γ
+-Decay Cascades: Nuclear Structure as a Scale-Free Random Network**  
+ **<u>Keisuke Fujii</u>**, Julian C. Berengut  
+ *Physical Review Letters* **126,** 102502 (2021)  
+<a href="https://doi.org/10.1103/PhysRevLett.126.102502">10.1103/PhysRevLett.126.102502</a>  
+
+2. **Population kinetics of many-electron atoms in ionizing plasmas studied using a continuous collisional radiative model**  
+ Akira Nishio, Julian C. Berengut, Masahiro Hasuo, **<u>Keisuke Fujii</u>**  
+ *Physical Review E* **102,** 053211 (2020)  
+<a href="https://doi.org/10.1103/PhysRevE.102.053211">10.1103/PhysRevE.102.053211</a>  
+
+3. **Simple Explanation for the Observed Power Law Distribution of Line Intensity in Complex Many-Electron Atoms**  
+ **<u>Keisuke Fujii</u>**, Julian C. Berengut  
+ *Physical Review Letters* **124,** 185002 (2020)  
+<a href="https://doi.org/10.1103/physrevlett.124.185002">10.1103/physrevlett.124.185002</a>  
+
+4. **Robust Regression for Automatic Fusion Plasma Analysis Based on Generative Modeling**  
  **<u>K. Fujii</u>**, C. Suzuki, M. Hasuo  
  *IEEE Transactions on Plasma Science* **47,** 3305-3314 (2019)  
 <a href="https://doi.org/10.1109/TPS.2019.2921073">10.1109/TPS.2019.2921073</a>  
 
-4. **Machine Learning of Noise in LHD Thomson Scattering System**  
+5. **Machine Learning of Noise in LHD Thomson Scattering System**  
  **<u>Keisuke Fujii</u>**, Ichihiro Yamada, Masahiro Hasuo  
  *Fusion Science and Technology* **74,** 57-64 (2018)  
 <a href="https://doi.org/10.1080/15361055.2017.1396179">10.1080/15361055.2017.1396179</a>  
 
-5. **Experimental evaluation of fractional abundance data for W23+–W28+**  
+6. **Experimental evaluation of fractional abundance data for W23+–W28+**  
  **<u>Keisuke Fujii</u>**, Daiji Kato, Nobuyuki Nakamura, Motoshi Goto, Shigeru Morita, Masahiro Hasuo  
  *Journal of Physics B: Atomic, Molecular and Optical Physics* **50,** 055004 (2017)  
 <a href="https://doi.org/10.1088/1361-6455/50/5/055004">10.1088/1361-6455/50/5/055004</a>  
 
-6. **Data-driven sensitivity inference for Thomson scattering electron density measurement systems**  
+7. **Data-driven sensitivity inference for Thomson scattering electron density measurement systems**  
  **<u>Keisuke Fujii</u>**, Ichihiro Yamada, Masahiro Hasuo  
  *Review of Scientific Instruments* **88,** 013508 (2017)  
 <a href="https://doi.org/10.1063/1.4974344">10.1063/1.4974344</a>  
 
-7. **Inversion Methods of the Balmer-α Line Profile for Hydrogen Atom Density Evaluation in High-Temperature Plasmas**  
+8. **Inversion Methods of the Balmer-α Line Profile for Hydrogen Atom Density Evaluation in High-Temperature Plasmas**  
  **<u>Keisuke Fujii</u>**, Motoshi Goto, Shigeru Morita, Masahiro Hasuo  
  *Fusion Science and Technology* **69,** 514-525 (2016)  
 <a href="https://doi.org/10.13182/FST15-168">10.13182/FST15-168</a>  
-
-8. **Visible emission spectroscopy of highly charged tungsten ions in LHD: II. Evaluation of tungsten ion temperature**  
- **<u>K Fujii</u>**, Y Takahashi, Y Nakai, D Kato, M Goto, S Morita, M Hasuo,  LHD Experiment Group2  
- *Physica Scripta* **90,** 125403 (2015)  
-<a href="https://doi.org/10.1088/0031-8949/90/12/125403">10.1088/0031-8949/90/12/125403</a>  
 
 9. **Visible emission spectroscopy of highly charged tungsten ions in LHD: I. Survey of new visible emission lines**  
  M Shinohara, **<u>K Fujii</u>**, D Kato, N Nakamura, M Goto, S Morita, M Hasuo,  LHD Experiment Group2  
  *Physica Scripta* **90,** 125402 (2015)  
 <a href="https://doi.org/10.1088/0031-8949/90/12/125402">10.1088/0031-8949/90/12/125402</a>  
 
-10. **Study of neutral hydrogen transport in LHD core plasmas based on high dynamic-range Balmer-αspectroscopy**  
+10. **Visible emission spectroscopy of highly charged tungsten ions in LHD: II. Evaluation of tungsten ion temperature**  
+ **<u>K Fujii</u>**, Y Takahashi, Y Nakai, D Kato, M Goto, S Morita, M Hasuo,  LHD Experiment Group2  
+ *Physica Scripta* **90,** 125403 (2015)  
+<a href="https://doi.org/10.1088/0031-8949/90/12/125403">10.1088/0031-8949/90/12/125403</a>  
+
+11. **Study of neutral hydrogen transport in LHD core plasmas based on high dynamic-range Balmer-αspectroscopy**  
  **<u>K. Fujii</u>**, M. Goto, S. Morita,  The LHD Experiment Group  
  *Nuclear Fusion* **55,** 063029 (2015)  
 <a href="https://doi.org/10.1088/0029-5515/55/6/063029">10.1088/0029-5515/55/6/063029</a>  
 
-11. **Development of a high dynamic range spectroscopic system for observation of neutral hydrogen atom density distribution in Large Helical Device core plasma**  
+12. **Development of a high dynamic range spectroscopic system for observation of neutral hydrogen atom density distribution in Large Helical Device core plasma**  
  **<u>K. Fujii</u>**, S. Atsumi, S. Watanabe, T. Shikama, M. Goto, S. Morita, M. Hasuo  
  *Review of Scientific Instruments* **85,** 023502 (2014)  
 <a href="https://doi.org/10.1063/1.4863650">10.1063/1.4863650</a>  
 
-12. **Hydrogen transport diagnostics by atomic and molecular emission line profiles simultaneously measured for large helical device**  
+13. **Hydrogen transport diagnostics by atomic and molecular emission line profiles simultaneously measured for large helical device**  
  **<u>K. Fujii</u>**, T. Shikama, M. Goto, S. Morita, M. Hasuo  
  *Physics of Plasmas* **20,** 012514 (2013)  
 <a href="https://doi.org/10.1063/1.4789454">10.1063/1.4789454</a>  
 
-13. **A Collisional-Radiative Model for Hydrogen Atom Including Velocity Changing Collisions**  
+14. **A Collisional-Radiative Model for Hydrogen Atom Including Velocity Changing Collisions**  
  **<u>Keisuke FUJII</u>**, Taiichi SHIKAMA, Keiji SAWADA, Motoshi GOTO, Shigeru MORITA, Masahiro HASUO  
  *Plasma and Fusion Research* **6,** 2401125-2401125 (2011)  
 <a href="https://doi.org/10.1585/pfr.6.2401125">10.1585/pfr.6.2401125</a>  
 
-14. **Kinetic energy measurement of hydrogen in LHD peripheral plasma with a multi-wavelength-range fine-resolution spectrometer**  
+15. **Kinetic energy measurement of hydrogen in LHD peripheral plasma with a multi-wavelength-range fine-resolution spectrometer**  
  **<u>Keisuke Fujii</u>**, Keisuke Mizushiri, Tomomi Nishioka, Taiichi Shikama, Atsushi Iwamae, Motoshi Goto, Shigeru Morita, Masahiro Hasuo  
  *Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment* **623,** 690-692 (2010)  
 <a href="https://doi.org/10.1016/j.nima.2010.02.100">10.1016/j.nima.2010.02.100</a>  
 
-15. **Development of multiwavelength-range fine-resolution spectrometer for hydrogen emissions and its application to large helical device periphery plasmas**  
+16. **Development of multiwavelength-range fine-resolution spectrometer for hydrogen emissions and its application to large helical device periphery plasmas**  
  **<u>K. Fujii</u>**, K. Mizushiri, T. Nishioka, T. Shikama, A. Iwamae, M. Goto, S. Morita, S Kado, K. Sawada, M. Hasuo  
  *Review of Scientific Instruments* **81,** 033106 (2010)  
 <a href="https://doi.org/10.1063/1.3356730">10.1063/1.3356730</a>  
@@ -150,15 +164,15 @@ layout: publications
  *Japanese Journal of Applied Physics* **57,** 01AA03 (2018)  
 <a href="https://doi.org/10.7567/jjap.57.01aa03">10.7567/jjap.57.01aa03</a>  
 
-12. **Spatially Resolved Measurements of Metastable Atom Density and Electric Field Strength in a Microhollow Cathode Helium Plasma by Laser Absorption Spectroscopy**  
- Keisuke UENO, Kenta KAMEBUCHI, Jiro KAKUTANI, Leo MATSUOKA, Shinichi NAMBA, **<u>Keisuke FUJII</u>**, Taiichi SHIKAMA, Masahiro HASUO  
- *Plasma and Fusion Research* **13,** 3406070-3406070 (2018)  
-<a href="https://doi.org/10.1585/pfr.13.3406070">10.1585/pfr.13.3406070</a>  
-
-13. **Measurements of the Impurity Flow Velocity and Temperature in Deuterium and Hydrogen Plasmas in the Divertor Legs of the Stochastic Layer in LHD**  
+12. **Measurements of the Impurity Flow Velocity and Temperature in Deuterium and Hydrogen Plasmas in the Divertor Legs of the Stochastic Layer in LHD**  
  Arseniy KUZMIN, Masahiro KOBAYASHI, Tomohide NAKANO, Masahiro HASUO, **<u>Keisuke FUJII</u>**, Motoshi GOTO, Taiichi SHIKAMA, Tomohiro MORISAKI,  the LHD Experiment Group  
  *Plasma and Fusion Research* **13,** 3402058-3402058 (2018)  
 <a href="https://doi.org/10.1585/pfr.13.3402058">10.1585/pfr.13.3402058</a>  
+
+13. **Spatially Resolved Measurements of Metastable Atom Density and Electric Field Strength in a Microhollow Cathode Helium Plasma by Laser Absorption Spectroscopy**  
+ Keisuke UENO, Kenta KAMEBUCHI, Jiro KAKUTANI, Leo MATSUOKA, Shinichi NAMBA, **<u>Keisuke FUJII</u>**, Taiichi SHIKAMA, Masahiro HASUO  
+ *Plasma and Fusion Research* **13,** 3406070-3406070 (2018)  
+<a href="https://doi.org/10.1585/pfr.13.3406070">10.1585/pfr.13.3406070</a>  
 
 14. **Extension of the operational regime of the LHD towards a deuterium experiment**  
  Y. Takeiri, T. Morisaki, M. Osakabe, M. Yokoyama, S. Sakakibara, H. Takahashi, Y. Nakamura, T. Oishi, G. Motojima, S. Murakami, K. Ito, A. Ejiri, S. Imagawa, S. Inagaki, M. Isobe, S. Kubo, S. Masamune, T. Mito, I. Murakami, K. Nagaoka, K. Nagasaki, K. Nishimura, M. Sakamoto, R. Sakamoto, T. Shimozuma, K. Shinohara, H. Sugama, K.Y. Watanabe, J.W. Ahn, N. Akata, T. Akiyama, N. Ashikawa, J. Baldzuhn, T. Bando, E. Bernard, F. Castejón, H. Chikaraishi, M. Emoto, T. Evans, N. Ezumi, **<u>K. Fujii</u>**, H. Funaba, M. Goto, T. Goto, D. Gradic, Y. Gunsu, S. Hamaguchi, H. Hasegawa, Y. Hayashi, C. Hidalgo, T. Higashiguchi, Y. Hirooka, Y. Hishinuma, R. Horiuchi, K. Ichiguchi, K. Ida, T. Ido, H. Igami, K. Ikeda, S. Ishiguro, R. Ishizaki, A. Ishizawa, A. Ito, Y. Ito, A. Iwamoto, S. Kamio, K. Kamiya, O. Kaneko, R. Kanno, H. Kasahara, D. Kato, T. Kato, K. Kawahata, G. Kawamura, M. Kisaki, S. Kitajima, W.H. Ko, M. Kobayashi, S. Kobayashi, T. Kobayashi, K. Koga, A. Kohyama, R. Kumazawa, J.H. Lee, D. López-Bruna, R. Makino, S. Masuzaki, Y. Matsumoto, H. Matsuura, O. Mitarai, H. Miura, J. Miyazawa, N. Mizuguchi, C. Moon, S. Morita, T. Moritaka, K. Mukai, T. Muroga, S. Muto, T. Mutoh, T. Nagasaka, Y. Nagayama, N. Nakajima, Y. Nakamura, H. Nakanishi, H. Nakano, M. Nakata, Y. Narushima, D. Nishijima, A. Nishimura, S. Nishimura, T. Nishitani, M. Nishiura, Y. Nobuta, H. Noto, M. Nunami, T. Obana, K. Ogawa, S. Ohdachi, M. Ohno, N. Ohno, H. Ohtani, M. Okamoto, Y. Oya, T. Ozaki, B.J. Peterson, M. Preynas, S. Sagara, K. Saito, H. Sakaue, A. Sanpei, S. Satake, M. Sato, T. Saze, O. Schmitz, R. Seki, T. Seki, I. Sharov, A. Shimizu, M. Shiratani, M. Shoji, C. Skinner, R. Soga, T. Stange, C. Suzuki, Y. Suzuki, S. Takada, K. Takahata, A. Takayama, S. Takayama, Y. Takemura, Y. Takeuchi, H. Tamura, N. Tamura, H. Tanaka, K. Tanaka, M. Tanaka, T. Tanaka, Y. Tanaka, S. Toda, Y. Todo, K. Toi, M. Toida, M. Tokitani, T. Tokuzawa, H. Tsuchiya, T. Tsujimura, K. Tsumori, S. Usami, J.L. Velasco, H. Wang, T.-H. Watanabe, T. Watanabe, J. Yagi, M. Yajima, H. Yamada, I. Yamada, O. Yamagishi, N. Yamaguchi, Y. Yamamoto, N. Yanagi, R. Yasuhara, E. Yatsuka, N. Yoshida, M. Yoshinuma, S. Yoshimura, Y. Yoshimura  

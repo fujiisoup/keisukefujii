@@ -24,6 +24,11 @@ def download_details(doi_list):
             work = works.doi(doi)
         except json.decoder.JSONDecodeError:
             continue
+            print('JSONDecodeError: {}'.format(doi))
+        if work is None:
+            print('NOT FOUND: {}'.format(doi))
+            continue
+            
         work['doi'] = doi
         detail = standarize(work)
         # add tag here
