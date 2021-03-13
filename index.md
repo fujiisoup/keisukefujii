@@ -23,7 +23,7 @@ Working on atomic physics, plasma physics, and statistical physics.
 ### Research details
 - [多電子原子の発光線数は強度のべき乗に従う（日本語）](2021-02-25/Learners-law)
 
-- [原子核はスケールフリーネットワーク構造を示す（日本語）](2021-03-13/scalefree_nucleus)
+- [原子核はスケールフリーネットワーク構造を示す（日本語）](2021-03-13/nuclear-network)
 
 ## Other activities
 ### Open source contribution
