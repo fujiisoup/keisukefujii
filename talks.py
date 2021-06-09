@@ -52,7 +52,7 @@ def save_markdown(international, domestic, outname):
             c = conf.iloc[i]
             text = """{0:d}. **{1:s}**  \n*{2:s}*  \n{3:s}, {4:s}, {5:s}-{6:s}\n""".format(
                 i + 1, c['title'], c['conference'], c['city'], c['country'],
-                c['start_date'].strftime('%Y. %b. %d'), c['end_date'].strftime('%b. %d')
+                c['start_date'].strftime('%Y. %b.%d'), c['end_date'].strftime('%b.%d')
             )
             contents.append(text)
 
@@ -66,10 +66,17 @@ def save_markdown(international, domestic, outname):
             c = conf.iloc[i]
             text = """{0:d}. **{1:s}**  \n""".format(
                 i + 1, c['title'])
-            text += ', '.join(c['authors'].split(';')) + '  \n'
+            authors = []
+            for a in c['authors'].split(';'):
+                if '藤井' in a or 'fujii' in a.lower():
+                    authors.append('**<u>' + a.strip() + '</u>**')
+                else:
+                    authors.append(a.strip())
+            
+            text += ', '.join(authors) + '  \n'
             text += """*{0:s}*, {1:s}, {2:s}-{3:s}  \n""".format(
                 c['conference'], c['city'],
-                c['start_date'].strftime('%Y. %b. %d'), c['end_date'].strftime('%b. %d')
+                c['start_date'].strftime('%Y. %b.%d'), c['end_date'].strftime('%b.%d')
             )
             contents.append(text)
             
