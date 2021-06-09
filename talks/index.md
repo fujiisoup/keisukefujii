@@ -62,19 +62,23 @@ Prague, the Czech Republic, 2018. Jun.02-Jun.06
 *25th IAEA Fusion Energy Conference*  
 St. Petersburg, Russian Ferderation, 2014. Oct.13-Oct.18
 
-4. **Comparison of Balmer- and - Line Intensities and Shapes with a Monte-Carlo Neutral Transport Calculation of Large Helical Device**  
+4. **Electron Density Dependence of the Neutral Hydrogen Atom Transport in LHD Core Plasmas Studied by Balmer-α Spectroscopy**  
+*9th Asia Plasma Fusion and Fusion Association Conference*  
+Gyeongju City, Korea, 2013. Nov.05-Nov.08
+
+5. **Comparison of Balmer-α and -β Line Intensities and Shapes with a Monte-Carlo Neutral Transport Calculation of Large Helical Device**  
 *20th International Conference on Spectral Line Shapes*  
 Newfoundland, Canada, 2010. Jun.06-Jun.11
 
-5. **Kinetic Energy Measurement of Hydrogen in LHD Peripheral Plasma with a Multi-wavelength-range Fine-resolution Spectrometer**  
+6. **Kinetic Energy Measurement of Hydrogen in LHD Peripheral Plasma with a Multi-wavelength-range Fine-resolution Spectrometer**  
 *1st International Conference on Frontiers in Diagnostic*  
 Frascati, Italy, 2009. Nov.24-Nov.27
 
-6. **Development of a Multi-wavelength-range High-resolution Spectrometer for Hydrogen Emissions and its Application to the LHD Edge Plasma**  
+7. **Development of a Multi-wavelength-range High-resolution Spectrometer for Hydrogen Emissions and its Application to the LHD Edge Plasma**  
 *16th International Conference on Atomic Processes in Plasmas*  
 Monteley, USA, 2009. Mar.22-Mar.26
 
-7. **Spectroscopic Diagnostics of helium discharge produced during sucrose triboluminescence**  
+8. **Spectroscopic Diagnostics of helium discharge produced during sucrose triboluminescence**  
 *14th International Congress on Plasma Physics (ICPP)*  
 Fukuoka, Japan, 2008. Sep.08-Sep.12
 
