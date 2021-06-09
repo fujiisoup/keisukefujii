@@ -2,3 +2,5 @@
 _site/
 notebooks/
 data/doi.txt
+
+.vscode
