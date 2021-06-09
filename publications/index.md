@@ -119,15 +119,15 @@ layout: publications
  *Journal of Quantitative Spectroscopy and Radiative Transfer* **267,** 107592 (2021)  
 <a href="https://doi.org/10.1016/j.jqsrt.2021.107592">10.1016/j.jqsrt.2021.107592</a>  
 
-3. **On the triad transfer analysis of plasma turbulence: symmetrization, coarse graining, and directional representation**  
+3. **Application of multiple regression for sensitivity analysis of helium line emissions to the electron density and temperature in Magnum-PSI**  
+ Shin Kajita, Daisuke Nishijima, **<u>Keisuke Fujii</u>**, Gijs Akkermans, Hennie van der Meiden  
+ *Plasma Physics and Controlled Fusion* **63,** 055018 (2021)  
+<a href="https://doi.org/10.1088/1361-6587/abf36e">10.1088/1361-6587/abf36e</a>  
+
+4. **On the triad transfer analysis of plasma turbulence: symmetrization, coarse graining, and directional representation**  
  S Maeyama, M Sasaki, **<u>K Fujii</u>**, T Kobayashi, R O Dendy, Y Kawachi, H Arakawa, S Inagaki  
  *New Journal of Physics* **23,** 043049 (2021)  
 <a href="https://doi.org/10.1088/1367-2630/abeffc">10.1088/1367-2630/abeffc</a>  
-
-4. **Machine learning prediction of electron density and temperature from He I line ratios**  
- D. Nishijima, S. Kajita, G. R. Tynan  
- *Review of Scientific Instruments* **92,** 023505 (2021)  
-<a href="https://doi.org/10.1063/5.0028000">10.1063/5.0028000</a>  
 
 5. **Compressing the time series of five dimensional distribution function data from gyrokinetic simulation using principal component analysis**  
  Yuuichi Asahi, **<u>Keisuke Fujii</u>**, Dennis Manuel Heim, Shinya Maeyama, Xavier Garbet, Virginie Grandgirard, Yanick Sarazin, Guilhem Dif-Pradalier, Yasuhiro Idomura, Masatoshi Yagi  
