@@ -26,6 +26,19 @@ Max-Planck Institute for Nuclear Physics, Heidelberg, Germany
 マックスプランク核物理研究所　ハイデルベルク、ドイツ
 
 
+# Awards
+
+## Young Scientist Best Presentation Award 
+November 2013  
+*9th Asia Plasma Fusion and Fusion Association*  
+
+## Young Scientist Best Presentation Award
+November 2014  
+*Plasma 2014*  
+
+## Young Scientist Award of the Physical Society of Japan
+
+
 # Education
 2012 March 26  
 Ph.D., Engineering  
@@ -38,3 +51,4 @@ Advisors  **Masahiro Hasuo, Prof.**
 博士（工学）  京都大学  
 博士論文: **大型プラズマ閉じ込め装置 LHD における水素リサイクリングの分光研究**  
 指導教員  **蓮尾昌裕 教授**
+
