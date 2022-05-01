@@ -4,7 +4,7 @@ layout: cv
 
 # Research experience
 ### 2022 Apr to present
-**Senior R&D Staff Scientist**
+**Senior R&D Staff Scientist**  
 Fusion Energy Division, Oak Ridge National Laboratory, US
 
 ### 2012 Apr to 2022 Mar

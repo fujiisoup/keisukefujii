@@ -5,11 +5,8 @@ layout: about
 # About Me
 
 ## Current position
-Assistant professor at  
-Department of Mechanical Engineering and Science, Graduate School of Engineering,  
-Kyoto University, Kyoto  
-
-助教 京都大学工学研究科 機械理工学専攻
+Senior R&D Staff Scientist at  
+Fusion Energy Division, Oak Ridge National Laboratory, US
 
 PhD of engineering (Kyoto university)  
 博士（工学）
