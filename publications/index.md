@@ -3,9 +3,7 @@ layout: publications
 ---
 
 # List of selected papers
-1. **Power-Law Intensity Distribution of 
-<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>γ</mml:mi></mml:math>
--Decay Cascades: Nuclear Structure as a Scale-Free Random Network**  
+1. **Power-Law Intensity Distribution of γ-Decay Cascades: Nuclear Structure as a Scale-Free Random Network**  
  **<u>Keisuke Fujii</u>**, Julian C. Berengut  
  *Physical Review Letters* **126,** 102502 (2021)  
 <a href="https://doi.org/10.1103/PhysRevLett.126.102502">10.1103/PhysRevLett.126.102502</a>  
@@ -15,7 +13,7 @@ layout: publications
  *Physical Review Letters* **124,** 185002 (2020)  
 <a href="https://doi.org/10.1103/physrevlett.124.185002">10.1103/physrevlett.124.185002</a>  
 
-3. **Study of neutral hydrogen transport in LHD core plasmas based on high dynamic-range Balmer-<i>α</i>spectroscopy**  
+3. **Study of neutral hydrogen transport in LHD core plasmas based on high dynamic-range Balmer-αspectroscopy**  
  **<u>K. Fujii</u>**, M. Goto, S. Morita,  The LHD Experiment Group  
  *Nuclear Fusion* **55,** 063029 (2015)  
 <a href="https://doi.org/10.1088/0029-5515/55/6/063029">10.1088/0029-5515/55/6/063029</a>  
@@ -26,9 +24,7 @@ layout: publications
 <a href="https://doi.org/10.1063/1.4863650">10.1063/1.4863650</a>  
 
 # List of papers (first- and corresponding-author)
-1. **Power-Law Intensity Distribution of 
-<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>γ</mml:mi></mml:math>
--Decay Cascades: Nuclear Structure as a Scale-Free Random Network**  
+1. **Power-Law Intensity Distribution of γ-Decay Cascades: Nuclear Structure as a Scale-Free Random Network**  
  **<u>Keisuke Fujii</u>**, Julian C. Berengut  
  *Physical Review Letters* **126,** 102502 (2021)  
 <a href="https://doi.org/10.1103/PhysRevLett.126.102502">10.1103/PhysRevLett.126.102502</a>  
@@ -53,7 +49,7 @@ layout: publications
  *Fusion Science and Technology* **74,** 57-64 (2018)  
 <a href="https://doi.org/10.1080/15361055.2017.1396179">10.1080/15361055.2017.1396179</a>  
 
-6. **Experimental evaluation of fractional abundance data for W<sup>23+</sup>–W<sup>28+</sup>**  
+6. **Experimental evaluation of fractional abundance data for W23+–W28+**  
  **<u>Keisuke Fujii</u>**, Daiji Kato, Nobuyuki Nakamura, Motoshi Goto, Shigeru Morita, Masahiro Hasuo  
  *Journal of Physics B: Atomic, Molecular and Optical Physics* **50,** 055004 (2017)  
 <a href="https://doi.org/10.1088/1361-6455/50/5/055004">10.1088/1361-6455/50/5/055004</a>  
@@ -78,7 +74,7 @@ layout: publications
  *Physica Scripta* **90,** 125403 (2015)  
 <a href="https://doi.org/10.1088/0031-8949/90/12/125403">10.1088/0031-8949/90/12/125403</a>  
 
-11. **Study of neutral hydrogen transport in LHD core plasmas based on high dynamic-range Balmer-<i>α</i>spectroscopy**  
+11. **Study of neutral hydrogen transport in LHD core plasmas based on high dynamic-range Balmer-αspectroscopy**  
  **<u>K. Fujii</u>**, M. Goto, S. Morita,  The LHD Experiment Group  
  *Nuclear Fusion* **55,** 063029 (2015)  
 <a href="https://doi.org/10.1088/0029-5515/55/6/063029">10.1088/0029-5515/55/6/063029</a>  
@@ -204,7 +200,7 @@ layout: publications
  *Nuclear Fusion* **57,** 102023 (2017)  
 <a href="https://doi.org/10.1088/1741-4326/aa7fc2">10.1088/1741-4326/aa7fc2</a>  
 
-20. **Behavior of 2<sup>3</sup>S metastable state He atoms in low-temperature recombining plasmas**  
+20. **Behavior of 23S metastable state He atoms in low-temperature recombining plasmas**  
  Shin Kajita, Tadashi Tsujihara, Mitsutoshi Aramaki, Hennie van der Meiden, Hiroshi Oshima, Noriyasu Ohno, Hirohiko Tanaka, Ryo Yasuhara, Tsuyoshi Akiyama, **<u>Keisuke Fujii</u>**, Taiichi Shikama  
  *Physics of Plasmas* **24,** 073301 (2017)  
 <a href="https://doi.org/10.1063/1.4990077">10.1063/1.4990077</a>  
@@ -264,12 +260,12 @@ layout: publications
  *Journal of Physics: Conference Series* **397,** 012016 (2012)  
 <a href="https://doi.org/10.1088/1742-6596/397/1/012016">10.1088/1742-6596/397/1/012016</a>  
 
-32. **A simultaneous measurement of polarization-resolved spectra of neutral helium 2<sup>3</sup>P–3<sup>3</sup>D, 2<sup>1</sup>P–3<sup>1</sup>D and 2<sup>3</sup>P–3<sup>3</sup>S emissions from the periphery of a Large Helical Device plasma**  
+32. **A simultaneous measurement of polarization-resolved spectra of neutral helium 23P–33D, 21P–31D and 23P–33S emissions from the periphery of a Large Helical Device plasma**  
  K Mizushiri, **<u>K Fujii</u>**, T Shikama, A Iwamae, M Goto, S Morita, M Hasuo  
  *Plasma Physics and Controlled Fusion* **53,** 105012 (2011)  
 <a href="https://doi.org/10.1088/0741-3335/53/10/105012">10.1088/0741-3335/53/10/105012</a>  
 
-33. **Plasma polarization spectroscopy of atomic and molecular emissions from magnetically confined plasmas<sup>1</sup>This review is part of a Special Issue on the 10th International Colloquium on Atomic Spectra and Oscillator Strengths for Astrophysical and Laboratory Plasmas.**  
+33. **Plasma polarization spectroscopy of atomic and molecular emissions from magnetically confined plasmas1This review is part of a Special Issue on the 10th International Colloquium on Atomic Spectra and Oscillator Strengths for Astrophysical and Laboratory Plasmas.**  
  T. Shikama, **<u>K. Fujii</u>**, S. Kado, H. Zushi, M. Sakamoto, A. Iwamae, M. Goto, S. Morita, M. Hasuo  
  *Canadian Journal of Physics* **89,** 495-501 (2011)  
 <a href="https://doi.org/10.1139/p10-118">10.1139/p10-118</a>  

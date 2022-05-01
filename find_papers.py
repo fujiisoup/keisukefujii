@@ -95,6 +95,25 @@ def sort_by_date(details, newest_first=True):
     return [details[i] for i in idx]
 
 
+def remove_htmltag(s):
+    ''' Remove html tags in a string. Find pairs of tags 
+    so that it does not remove any non-tag strings'''
+    s = s.replace('\n', '')
+    i_tagstart = s.find('<')
+    if i_tagstart >= 0:
+        i_tagstop = s.find('>') + 1
+        tag = s[i_tagstart:i_tagstop]
+        end_tag = tag[0] + '/' + tag[1:tag.find(' ')] + '>'
+        j_tagstart = s.find(end_tag)
+        if j_tagstart >= 0:
+            j_tagstop = j_tagstart + len(end_tag)
+            s = (
+                s[:i_tagstart] + s[i_tagstop:j_tagstart] + 
+                s[j_tagstop:]
+            )
+            return remove_htmltag(s)
+    return s
+
 def save_markdown(details, outname):
     """
     Save as a markdown format
@@ -120,7 +139,8 @@ def save_markdown(details, outname):
     i_other = 0
     for i, detail in enumerate(details):
         lines = []
-        lines.append('**{}**  '.format(detail['title'][0]))
+        title = remove_htmltag(detail['title'][0])
+        lines.append('**{}**  '.format(title))
         authors = ''
         for author in detail['author']:
             if author['family'].lower() == 'fujii':
