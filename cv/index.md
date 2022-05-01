@@ -3,7 +3,11 @@ layout: cv
 ---
 
 # Research experience
-### 2012 Apr to present
+### 2022 Apr to present
+**Senior R&D Staff Scientist**
+Fusion Energy Division, Oak Ridge National Laboratory, US
+
+### 2012 Apr to 2022 Mar
 **Assistant Professor**  
 Department of Mechanical Engineering and Science,
 Graduate School of Engineering, Kyoto University
@@ -27,17 +31,17 @@ Max-Planck Institute for Nuclear Physics, Heidelberg, Germany
 
 
 # Awards
-
-## Young Scientist Best Presentation Award 
-November 2013  
-*9th Asia Plasma Fusion and Fusion Association*  
+## Young Scientist Award of the Physical Society of Japan
+March 2022  
+*Physical Society of Japan*  
 
 ## Young Scientist Best Presentation Award
 November 2014  
 *Plasma 2014*  
 
-## Young Scientist Award of the Physical Society of Japan
-
+## Young Scientist Best Presentation Award 
+November 2013  
+*9th Asia Plasma Fusion and Fusion Association*  
 
 # Education
 2012 March 26  
