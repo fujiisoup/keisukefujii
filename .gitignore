@@ -4,3 +4,4 @@ notebooks/
 data/doi.txt
 
 .vscode
+*.code-workspace
