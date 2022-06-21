@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "京都大学退職とアメリカ移住"
-info: "essay_keikikai"
+info: "essay-keikikai"
 type: essay
 ---
 
