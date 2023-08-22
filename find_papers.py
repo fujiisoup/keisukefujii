@@ -139,7 +139,7 @@ def save_markdown(details, outname):
     i_other = 0
     for i, detail in enumerate(details):
         lines = []
-        title = remove_htmltag(detail['title'][0])
+        title = remove_htmltag(detail['title'][0]).replace('*', '').strip()
         lines.append('**{}**  '.format(title))
         authors = ''
         for author in detail['author']:
@@ -149,7 +149,13 @@ def save_markdown(details, outname):
                 authors += '{} {}, '.format(author['given'], author['family'])
         lines.append(' {}  '.format(authors[:-2]))  # remove the last comma
         # journal
-        articlenumber = detail.get('article-number', detail.get('page'))
+        articlenumber = detail.get('article-number', detail.get('page', detail.get('first_page')))
+        if articlenumber is None:
+            url = detail['link'][0]['URL']
+            articlenumber = url[url.rfind('/') + 1:url.rfind('_')]
+            articlenumber = articlenumber[:url.rfind('_')]
+            print(articlenumber)
+
         lines.append(' *{}* **{},** {} ({})  '.format(
             detail['container-title'][0], 
             detail['volume'],
