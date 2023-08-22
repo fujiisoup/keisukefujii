@@ -80,7 +80,7 @@ def save_markdown(international, domestic, outname):
             )
             contents.append(text)
             
-    with open(outname, 'w') as f:
+    with open(outname, 'w', encoding="utf-8") as f:
         for line in (
             header + contents
         ):

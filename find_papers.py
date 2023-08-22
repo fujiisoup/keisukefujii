@@ -173,7 +173,7 @@ def save_markdown(details, outname):
             other_papers += [
                 '{}. {}'.format(i_other, l) if i == 0 else l for i, l in enumerate(lines)
             ]
-    with open(outname, 'w') as f:
+    with open(outname, 'w', encoding="utf-8") as f:
         for line in (
             header + selected_papers + first_corresponding_papers + other_papers
         ):
