@@ -153,7 +153,7 @@ def save_markdown(details, outname):
         if articlenumber is None:
             url = detail['link'][0]['URL']
             articlenumber = url[url.rfind('/') + 1:url.rfind('_')]
-            articlenumber = articlenumber[:url.rfind('_')]
+            articlenumber = articlenumber[:articlenumber.rfind('_')]
             print(articlenumber)
 
         lines.append(' *{}* **{},** {} ({})  '.format(
