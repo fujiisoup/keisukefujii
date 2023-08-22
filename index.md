@@ -17,10 +17,17 @@ Working on atomic physics, plasma physics, and statistical physics.
 
 原子物理・プラズマ物理・統計物理
 
-### Research details
-- [多電子原子の発光線数は強度のべき乗に従う（日本語）](2021-02-25/Learners-law)
+## Other activities
+### International program committee
+- IAEA Technical Meeting on Fusion Data Processing, Validation and Analysis
+### Open source contribution
+#### As a contributor
+- [xarray](https://docs.xarray.dev/en/stable/) Xarray makes working with labelled multi-dimensional arrays in Python simple, efficient, and fun!
 
-- [原子核はスケールフリーネットワーク構造を示す（日本語）](2021-03-13/nuclear-network)
+#### As the main developer
+- [py3nj](py3nj.readthedocs.io) Wigner's 3J, 6J, 9J symbols for python
+- [lhdpy](https://github.com/fujiisoup/lhdpy) A small library to download LHD diagnostic data from LHD data archive
+- [sif_parser](https://github.com/fujiisoup/sif_parser) A small package to read Andor Technology Multi-Channel files
 
 ## Research Activity
 ## Publication history
@@ -31,9 +38,3 @@ Working on atomic physics, plasma physics, and statistical physics.
 
 ## Reviewing history
 ![reviewing_history](./reviewing_history.png)
-
-## Other activities
-### Open source contribution
-I am a member of
-- xarray core developper
-
