@@ -22,6 +22,16 @@ Working on atomic physics, plasma physics, and statistical physics.
 
 - [原子核はスケールフリーネットワーク構造を示す（日本語）](2021-03-13/nuclear-network)
 
+## Research Activity
+## Publication history
+![publication_history](./publication_history.png)
+
+## Talk history
+![talk_history](./talk_history.png)
+
+## Reviewing history
+![reviewing_history](./reviewing_history.png)
+
 ## Other activities
 ### Open source contribution
 I am a member of

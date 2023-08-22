@@ -156,11 +156,13 @@ def save_markdown(details, outname):
             articlenumber = articlenumber[:articlenumber.rfind('_')]
             print(articlenumber)
 
+        journal = detail['container-title'][0]
+        published_year = detail['journal-issue']['published-print']['date-parts'][0][0]
         lines.append(' *{}* **{},** {} ({})  '.format(
-            detail['container-title'][0], 
+            journal, 
             detail['volume'],
             articlenumber, 
-            detail['journal-issue']['published-print']['date-parts'][0][0]
+            published_year
         ))
         lines.append('<a href="https://doi.org/{0:s}">{0:s}</a>  \n'.format(detail['doi']))
         
@@ -179,6 +181,7 @@ def save_markdown(details, outname):
             other_papers += [
                 '{}. {}'.format(i_other, l) if i == 0 else l for i, l in enumerate(lines)
             ]
+
     with open(outname, 'w', encoding="utf-8") as f:
         for line in (
             header + selected_papers + first_corresponding_papers + other_papers
