@@ -6,95 +6,115 @@ layout: talks
 
 ## Invited talks
 
-1. **Simple Explanation for the Observed Power Law Distribution of Line Intensity in Complex Many-Electron Atoms and Heavy Nuclei**  
+1. **Validating Collision-Radiation-Predissociation Dataset for Molecular Hydrogen with visible emission spectra**  
+*IAEA Technical Meeting on the Collisional-Radiative Properties of Tungsten and Hydrogen in Edge Plasma of Fusion Devices*  
+Vienna, Austria, 2023. Nov.28-Dec.01
+
+2. **Simple Explanation for the Observed Power Law Distribution of Line Intensity in Complex Many-Electron Atoms and Heavy Nuclei**  
 *Atomic Processes in Plasmas*  
 Vienna, Austria, 2023. May.15-May.19
 
-2. **Bayesian Inference for the LHD Experiment Data**  
+3. **Bayesian Inference for the LHD Experiment Data**  
 *IAEA Technical Meeting on Uncertainty Assessment and Benchmark Experiments for Atomic and Molecular Data for Fusion Applications*  
 Vienna, Austria, 2016. Dec.19-Dec.21
 
-3. **Neutral Hydrogen Dynamics in Fusion Core Plasmas Revealed by High Dynamic Range Balmer-α Spectroscopy**  
+4. **Neutral Hydrogen Dynamics in Fusion Core Plasmas Revealed by High Dynamic Range Balmer-α Spectroscopy**  
 *9th International Conference on Atomic and Molecular Data and Their Applications*  
 Jena, Germany, 2014. Sep.21-Sep.25
 
 ## Oral talks
 
-1. **Finding Key Diagnostic Lines for Divertor Molecular Dynamics based on Principal Component Analysis**  
+1. **Experimental Validation of Collision-Radiation-Predissociation Dataset for Molecular Hydrogen and Its Application to Divertor Diagnostics**  
+*APS DPP*  
+Denver CO, United States, 2023. Oct.30-Nov.03
+
+2. **Finding Key Diagnostic Lines for Divertor Molecular Dynamics based on Principal Component Analysis**  
 *Atomic Processes in Plasmas*  
 Vienna, Austria, 2023. May.15-May.19
 
-2. **Steady-state Velocity Distribution of Neutral Atoms with Energy Dissipation**  
+3. **Conceptual Design of Ion Temperature Diagnostics for the PI4 device at General Fusion**  
 *APS Division of Plasma Physics*  
 Spokane, United States, 2022. Oct.17-Oct.21
 
-3. **Power-Law Distribution of Line Intensity in Complex Many-Electron Atoms**  
+4. **Steady-state Velocity Distribution of Neutral Atoms with Energy Dissipation**  
+*APS Division of Plasma Physics*  
+Spokane, United States, 2022. Oct.17-Oct.21
+
+5. **Power-Law Distribution of Line Intensity in Complex Many-Electron Atoms**  
 *APS Division of Atomic Molecular and Optical Physics*  
 Online, United States, 2021. May.31-Jun.04
 
-4. **Electron Density Estimation from Multichannel Laser Interferometer Measurement in LHD with Systematic Bias Compensation**  
+6. **Electron Density Estimation from Multichannel Laser Interferometer Measurement in LHD with Systematic Bias Compensation**  
 *3rd IAEA Technical Meeting on Fusion Data Processing Validation and Analysis*  
 Vienna, Austria, 2019. May.28-May.31
 
-5. **Statistical completion and validation of the NIST Atomic Spectral Database**  
+7. **Statistical completion and validation of the NIST Atomic Spectral Database**  
 *DPG annual conference (Rostock 2019)*  
 Rostock, Germany, 2019. Mar.11-Mar.15
 
-6. **Experimental evaluation of fractional abundance data for W23+ - W28+**  
+8. **Experimental evaluation of fractional abundance data for W23+ - W28+**  
 *The 7 th China-Japan-Korea Joint Seminar on Atomic and Molecular Processes in Plasma (AMPP2018)*  
 Hefei, China, 2018. Jun.24-Jun.26
 
-7. **Automatic Fusion Plasma Data Analysis based on Bayesian Statistics**  
+9. **Automatic Fusion Plasma Data Analysis based on Bayesian Statistics**  
 *1st International Conference on Data-Driven Plasma Science*  
 York, UK, 2018. Jun.11-Jun.13
 
-8. **Machine Learning of Noise in LHD Thomson Scattering System**  
+10. **Machine Learning of Noise in LHD Thomson Scattering System**  
 *2nd IAEA Technical Meeting on the Fusion Data Processing; Validation and Analysis*  
 Boston, USA, 2017. May.30-Jun.02
 
-9. **Measurement of the neutral hydrogen atom density in the LHD core plasmas based on the spectral inversion**  
+11. **Measurement of the neutral hydrogen atom density in the LHD core plasmas based on the spectral inversion**  
 *1st IAEA Technical Meeting on Fusion Data Processing; Validation and Analysis*  
 Nice, France, 2015. Jun.01-Jun.03
 
-10. **Hydrogen atomic and molecular emission locations and intensities in the LHD edge plasma determined from simultaneously observed polarization spectra**  
+12. **Hydrogen atomic and molecular emission locations and intensities in the LHD edge plasma determined from simultaneously observed polarization spectra**  
 *24th International Toki Conference (ITC-24)*  
 Toki, Japan, 2014. Nov.04-Nov.07
 
 ## Posters
 
-1. **Stable energy distribution of radical atoms under collisional energy cascade**  
+1. **Plasma diagnostics based on molecular hydrogen spectrum with detailed collisional-radiative modeling**  
+*26th International Conference on Plasma Surface Interaction in Controlled Fusion Devices*  
+Marseille, France, 2024. May.12-May.17
+
+2. **Conceptual Design of a Doppler Spectrometry for 102-m/s Cross-Field Flows in Tokamak Divertors**  
+*25th Topical Conference on High Temperature Plasma Diagnostics*  
+Asheville NC, United States, 2024. Apr.21-Apr.25
+
+3. **Stable energy distribution of radical atoms under collisional energy cascade**  
 *second annual MagNetUS meeting*  
 Williamsburg, United States, 2022. Jun.07-Jun.10
 
-2. **Statistical Completion and Validation of Atomic Energy Level Database Based on Low Rank Nature of Isoelectronic Sequence**  
+4. **Statistical Completion and Validation of Atomic Energy Level Database Based on Low Rank Nature of Isoelectronic Sequence**  
 *2nd International Conference on Data-Driven Plasma Science*  
 Marseille, France, 2019. May.13-May.17
 
-3. **Automatic Robust Regression Analysis of Fusion Plasma Experiment Data based on Generative Modelling**  
+5. **Automatic Robust Regression Analysis of Fusion Plasma Experiment Data based on Generative Modelling**  
 *45th Conference on Plasma Physics (EPS 2018)*  
 Prague, the Czech Republic, 2018. Jun.02-Jun.06
 
-4. **Study of Neutral Hydrogen Transport in LHD Core Plasmas Based on High Dynamic-Range Balmer-α Spectroscopy**  
+6. **Study of Neutral Hydrogen Transport in LHD Core Plasmas Based on High Dynamic-Range Balmer-α Spectroscopy**  
 *25th IAEA Fusion Energy Conference*  
 St. Petersburg, Russian Ferderation, 2014. Oct.13-Oct.18
 
-5. **Electron Density Dependence of the Neutral Hydrogen Atom Transport in LHD Core Plasmas Studied by Balmer-α Spectroscopy**  
+7. **Electron Density Dependence of the Neutral Hydrogen Atom Transport in LHD Core Plasmas Studied by Balmer-α Spectroscopy**  
 *9th Asia Plasma Fusion and Fusion Association Conference*  
 Gyeongju City, Korea, 2013. Nov.05-Nov.08
 
-6. **Comparison of Balmer-α and -β Line Intensities and Shapes with a Monte-Carlo Neutral Transport Calculation of Large Helical Device**  
+8. **Comparison of Balmer-α and -β Line Intensities and Shapes with a Monte-Carlo Neutral Transport Calculation of Large Helical Device**  
 *20th International Conference on Spectral Line Shapes*  
 Newfoundland, Canada, 2010. Jun.06-Jun.11
 
-7. **Kinetic Energy Measurement of Hydrogen in LHD Peripheral Plasma with a Multi-wavelength-range Fine-resolution Spectrometer**  
+9. **Kinetic Energy Measurement of Hydrogen in LHD Peripheral Plasma with a Multi-wavelength-range Fine-resolution Spectrometer**  
 *1st International Conference on Frontiers in Diagnostic*  
 Frascati, Italy, 2009. Nov.24-Nov.27
 
-8. **Development of a Multi-wavelength-range High-resolution Spectrometer for Hydrogen Emissions and its Application to the LHD Edge Plasma**  
+10. **Development of a Multi-wavelength-range High-resolution Spectrometer for Hydrogen Emissions and its Application to the LHD Edge Plasma**  
 *16th International Conference on Atomic Processes in Plasmas*  
 Monteley, USA, 2009. Mar.22-Mar.26
 
-9. **Spectroscopic Diagnostics of helium discharge produced during sucrose triboluminescence**  
+11. **Spectroscopic Diagnostics of helium discharge produced during sucrose triboluminescence**  
 *14th International Congress on Plasma Physics (ICPP)*  
 Fukuoka, Japan, 2008. Sep.08-Sep.12
 

@@ -7,6 +7,8 @@ import seaborn as sns
 
 matplotlib.rc('font', size=14)
 
+bins = np.arange(2007, datetime.date.today().year + 1) + 0.5
+bin_centers = ((bins[1:] + bins[:-1]) / 2).astype(int)
 
 # Events
 positions = [
@@ -51,12 +53,10 @@ for i in range(0, len(lines) - 5, 5):
     papers.append(1)
 years = np.concatenate([first_years, coaut_years])
 
-bins = np.arange(np.min(years), np.max(years) + 1)
-
 plt.figure(figsize=(15, 5))
 plt.hist(first_years, bins=bins, color='C0', width=0.9, label='first authored', zorder=3)
 plt.hist(years, bins=bins, color='0.8', width=0.9, label='all', zorder=1,)
-plt.xticks(bins - 0.55, ['{}'.format(b) for b in bins]) 
+plt.xticks(bin_centers, ['{}'.format(b) for b in bin_centers]) 
 plt.gca().yaxis.grid(color='0.8', alpha=0.8)
 plt.xlabel('year')
 plt.ylabel('number of papers / year')
@@ -100,7 +100,7 @@ plt.figure(figsize=(15, 5))
 plt.hist(years, bins=bins, color='0.8', width=0.9, label='poster', zorder=1)
 plt.hist([y for y, t in zip(years, talk_types) if t in ['oral', 'invited']], bins=bins, color='C0', width=0.9, label='oral', zorder=2)
 plt.hist([y for y, t in zip(years, talk_types) if t == 'invited'], bins=bins, color='C1', width=0.9, label='invited', zorder=3)
-plt.xticks(bins - 0.55, ['{}'.format(b) for b in bins]) 
+plt.xticks(bin_centers, ['{}'.format(b) for b in bin_centers]) 
 plt.gca().yaxis.grid(color='0.8', alpha=0.8)
 plt.xlabel('year')
 plt.gca().yaxis.set_major_locator(MaxNLocator(integer=True))
@@ -140,7 +140,7 @@ for line in lines[1:]:
 
 plt.figure(figsize=(15, 5))
 plt.hist(years, bins=bins, color='C0', width=0.9)
-plt.xticks(bins - 0.55, ['{}'.format(b) for b in bins]) 
+plt.xticks(bin_centers, ['{}'.format(b) for b in bin_centers]) 
 plt.gca().yaxis.grid(color='0.8', alpha=0.8)
 plt.xlabel('year')
 plt.gca().yaxis.set_major_locator(MaxNLocator(integer=True))

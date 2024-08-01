@@ -1,4 +1,8 @@
 type, title, conference, city, country, start_date, end_date
+poster, Plasma diagnostics based on molecular hydrogen spectrum with detailed collisional-radiative modeling, 26th International Conference on Plasma Surface Interaction in Controlled Fusion Devices, Marseille, France, 2024/05/12, 2024/05/17
+poster, Conceptual Design of a Doppler Spectrometry for 102-m/s Cross-Field Flows in Tokamak Divertors,25th Topical Conference on High Temperature Plasma Diagnostics, Asheville NC, United States, 2024/04/21, 2024/04/25
+oral, Experimental Validation of Collision-Radiation-Predissociation Dataset for Molecular Hydrogen and Its Application to Divertor Diagnostics,  APS DPP, Denver CO, United States, 2023/10/30, 2023/11/03
+invited, Validating Collision-Radiation-Predissociation Dataset for Molecular Hydrogen with visible emission spectra, IAEA Technical Meeting on the Collisional-Radiative Properties of Tungsten and Hydrogen in Edge Plasma of Fusion Devices, Vienna, Austria, 2023/11/28, 2023/12/01
 invited, Simple Explanation for the Observed Power Law Distribution of Line Intensity in Complex Many-Electron Atoms and Heavy Nuclei, Atomic Processes in Plasmas, Vienna, Austria, 2023/05/15, 2023/05/19
 oral, Finding Key Diagnostic Lines for Divertor Molecular Dynamics based on Principal Component Analysis, Atomic Processes in Plasmas, Vienna, Austria, 2023/05/15, 2023/05/19
 oral, Conceptual Design of Ion Temperature Diagnostics for the PI4 device at General Fusion, APS Division of Plasma Physics, Spokane, United States, 2022/10/17, 2022/10/21
