@@ -56,7 +56,7 @@ years = np.concatenate([first_years, coaut_years])
 plt.figure(figsize=(15, 5))
 plt.hist(first_years, bins=bins, color='C0', width=0.9, label='first authored', zorder=3)
 plt.hist(years, bins=bins, color='0.8', width=0.9, label='all', zorder=1,)
-plt.xticks(bin_centers, ['{}'.format(b) for b in bin_centers]) 
+plt.xticks(bins[:-1], ['{}'.format(b) for b in bin_centers], horizontalalignment='left') 
 plt.gca().yaxis.grid(color='0.8', alpha=0.8)
 plt.xlabel('year')
 plt.ylabel('number of papers / year')
@@ -68,7 +68,7 @@ for y, m, height, position in positions:
         now = now.year + now.month / 12 + 1
     else:
         now = y + m / 12
-        plt.axvline(now - 1, color='0.5', ls='--')
+        plt.axvline(now - 0.5, color='0.5', ls='--')
     plt.text((start + now) / 2 - 1, height, position, color='k', ha='center')
     start = now
     
@@ -100,7 +100,7 @@ plt.figure(figsize=(15, 5))
 plt.hist(years, bins=bins, color='0.8', width=0.9, label='poster', zorder=1)
 plt.hist([y for y, t in zip(years, talk_types) if t in ['oral', 'invited']], bins=bins, color='C0', width=0.9, label='oral', zorder=2)
 plt.hist([y for y, t in zip(years, talk_types) if t == 'invited'], bins=bins, color='C1', width=0.9, label='invited', zorder=3)
-plt.xticks(bin_centers, ['{}'.format(b) for b in bin_centers]) 
+plt.xticks(bins[:-1], ['{}'.format(b) for b in bin_centers], horizontalalignment='left') 
 plt.gca().yaxis.grid(color='0.8', alpha=0.8)
 plt.xlabel('year')
 plt.gca().yaxis.set_major_locator(MaxNLocator(integer=True))
@@ -113,7 +113,7 @@ for y, m, height, position in positions:
         now = now.year + now.month / 12 + 1
     else:
         now = y + m / 12
-        plt.axvline(now - 1, color='0.5', ls='--')
+        plt.axvline(now - 0.5, color='0.5', ls='--')
     start = now
 
 plt.legend(loc='upper left')
@@ -140,7 +140,7 @@ for line in lines[1:]:
 
 plt.figure(figsize=(15, 5))
 plt.hist(years, bins=bins, color='C0', width=0.9)
-plt.xticks(bin_centers, ['{}'.format(b) for b in bin_centers]) 
+plt.xticks(bins[:-1], ['{}'.format(b) for b in bin_centers], horizontalalignment='left') 
 plt.gca().yaxis.grid(color='0.8', alpha=0.8)
 plt.xlabel('year')
 plt.gca().yaxis.set_major_locator(MaxNLocator(integer=True))
@@ -153,7 +153,7 @@ for y, m, height, position in positions:
         now = now.year + now.month / 12 + 1
     else:
         now = y + m / 12
-        plt.axvline(now - 1, color='0.5', ls='--')
+        plt.axvline(now - 0.5, color='0.5', ls='--')
     start = now
 
 sns.despine()
