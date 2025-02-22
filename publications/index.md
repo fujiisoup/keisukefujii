@@ -160,15 +160,15 @@ layout: publications
  *AIP Advances* **12,** 025309 (2022)  
 <a href="https://doi.org/10.1063/5.0077130">10.1063/5.0077130</a>  
 
-6. **Ro-vibrational population distribution in the ground state of hydrogen isotopologues in LHD peripheral plasmas deduced from emission spectroscopy**  
- Hiroki Ishihara, Arseniy Kuzmin, Masahiro Kobayashi, Taiichi Shikama, Keiji Sawada, Seiki Saito, Hiroaki Nakamura, **<u>Keisuke Fujii</u>**, Masahiro Hasuo  
- *Journal of Quantitative Spectroscopy and Radiative Transfer* **267,** 107592 (2021)  
-<a href="https://doi.org/10.1016/j.jqsrt.2021.107592">10.1016/j.jqsrt.2021.107592</a>  
-
-7. **Comprehensive Laboratory Measurements Resolving the LMM Dielectronic Recombination Satellite Lines in Ne-like Fe xvii Ions**  
+6. **Comprehensive Laboratory Measurements Resolving the LMM Dielectronic Recombination Satellite Lines in Ne-like Fe xvii Ions**  
  Filipe Grilo, Chintan Shah, Steffen Kühn, René Steinbrügge, **<u>Keisuke Fujii</u>**, José Marques, Ming Feng Gu, José Paulo Santos, José R. Crespo López-Urrutia, Pedro Amaro  
  *The Astrophysical Journal* **913,** 140 (2021)  
 <a href="https://doi.org/10.3847/1538-4357/abf737">10.3847/1538-4357/abf737</a>  
+
+7. **Ro-vibrational population distribution in the ground state of hydrogen isotopologues in LHD peripheral plasmas deduced from emission spectroscopy**  
+ Hiroki Ishihara, Arseniy Kuzmin, Masahiro Kobayashi, Taiichi Shikama, Keiji Sawada, Seiki Saito, Hiroaki Nakamura, **<u>Keisuke Fujii</u>**, Masahiro Hasuo  
+ *Journal of Quantitative Spectroscopy and Radiative Transfer* **267,** 107592 (2021)  
+<a href="https://doi.org/10.1016/j.jqsrt.2021.107592">10.1016/j.jqsrt.2021.107592</a>  
 
 8. **Application of multiple regression for sensitivity analysis of helium line emissions to the electron density and temperature in Magnum-PSI**  
  Shin Kajita, Daisuke Nishijima, **<u>Keisuke Fujii</u>**, Gijs Akkermans, Hennie van der Meiden  
@@ -185,15 +185,15 @@ layout: publications
  *Physics of Plasmas* **28,** 012304 (2021)  
 <a href="https://doi.org/10.1063/5.0023166">10.1063/5.0023166</a>  
 
-11. **Observation of strong two-electron–one-photon transitions in few-electron ions**  
- M. Togawa, S. Kühn, C. Shah, P. Amaro, R. Steinbrügge, J. Stierhof, N. Hell, M. Rosner, **<u>K. Fujii</u>**, M. Bissinger, R. Ballhausen, M. Hoesch, J. Seltmann, S. Park, F. Grilo, F. S. Porter, J. P. Santos, M. Chung, T. Stöhlker, J. Wilms, T. Pfeifer, G. V. Brown, M. A. Leutenegger, S. Bernitt, J. R. Crespo López-Urrutia  
- *Physical Review A* **102,** 052831 (2020)  
-<a href="https://doi.org/10.1103/PhysRevA.102.052831">10.1103/PhysRevA.102.052831</a>  
-
-12. **Plasma Spectroscopy on an Aluminum-Pellet Ablation Cloud in an LHD Plasma with an Echelle Spectrometer**  
+11. **Plasma Spectroscopy on an Aluminum-Pellet Ablation Cloud in an LHD Plasma with an Echelle Spectrometer**  
  Hirotaka Tanaka, **<u>Keisuke Fujii</u>**, Taiichi Shikama, Shigeru Morita, Motoshi Goto, Masahiro Hasuo  
  *Atoms* **8,** 81 (2020)  
 <a href="https://doi.org/10.3390/atoms8040081">10.3390/atoms8040081</a>  
+
+12. **Observation of strong two-electron–one-photon transitions in few-electron ions**  
+ M. Togawa, S. Kühn, C. Shah, P. Amaro, R. Steinbrügge, J. Stierhof, N. Hell, M. Rosner, **<u>K. Fujii</u>**, M. Bissinger, R. Ballhausen, M. Hoesch, J. Seltmann, S. Park, F. Grilo, F. S. Porter, J. P. Santos, M. Chung, T. Stöhlker, J. Wilms, T. Pfeifer, G. V. Brown, M. A. Leutenegger, S. Bernitt, J. R. Crespo López-Urrutia  
+ *Physical Review A* **102,** 052831 (2020)  
+<a href="https://doi.org/10.1103/PhysRevA.102.052831">10.1103/PhysRevA.102.052831</a>  
 
 13. **High Resolution Photoexcitation Measurements Exacerbate the Long-Standing Fe XVII Oscillator Strength Problem**  
  Steffen Kühn, Chintan Shah, José R. Crespo López-Urrutia, **<u>Keisuke Fujii</u>**, René Steinbrügge, Jakob Stierhof, Moto Togawa, Zoltán Harman, Natalia S. Oreshkina, Charles Cheung, Mikhail G. Kozlov, Sergey G. Porsev, Marianna S. Safronova, Julian C. Berengut, Michael Rosner, Matthias Bissinger, Ralf Ballhausen, Natalie Hell, SungNam Park, Moses Chung, Moritz Hoesch, Jörn Seltmann, Andrey S. Surzhykov, Vladimir A. Yerokhin, Jörn Wilms, F. Scott Porter, Thomas Stöhlker, Christoph H. Keitel, Thomas Pfeifer, Gregory V. Brown, Maurice A. Leutenegger, Sven Bernitt  
@@ -235,15 +235,15 @@ layout: publications
  *Japanese Journal of Applied Physics* **57,** 01AA03 (2018)  
 <a href="https://doi.org/10.7567/jjap.57.01aa03">10.7567/jjap.57.01aa03</a>  
 
-21. **Spatially Resolved Measurements of Metastable Atom Density and Electric Field Strength in a Microhollow Cathode Helium Plasma by Laser Absorption Spectroscopy**  
- Keisuke UENO, Kenta KAMEBUCHI, Jiro KAKUTANI, Leo MATSUOKA, Shinichi NAMBA, **<u>Keisuke FUJII</u>**, Taiichi SHIKAMA, Masahiro HASUO  
- *Plasma and Fusion Research* **13,** 3406070-3406070 (2018)  
-<a href="https://doi.org/10.1585/pfr.13.3406070">10.1585/pfr.13.3406070</a>  
-
-22. **Measurements of the Impurity Flow Velocity and Temperature in Deuterium and Hydrogen Plasmas in the Divertor Legs of the Stochastic Layer in LHD**  
+21. **Measurements of the Impurity Flow Velocity and Temperature in Deuterium and Hydrogen Plasmas in the Divertor Legs of the Stochastic Layer in LHD**  
  Arseniy KUZMIN, Masahiro KOBAYASHI, Tomohide NAKANO, Masahiro HASUO, **<u>Keisuke FUJII</u>**, Motoshi GOTO, Taiichi SHIKAMA, Tomohiro MORISAKI,  the LHD Experiment Group  
  *Plasma and Fusion Research* **13,** 3402058-3402058 (2018)  
 <a href="https://doi.org/10.1585/pfr.13.3402058">10.1585/pfr.13.3402058</a>  
+
+22. **Spatially Resolved Measurements of Metastable Atom Density and Electric Field Strength in a Microhollow Cathode Helium Plasma by Laser Absorption Spectroscopy**  
+ Keisuke UENO, Kenta KAMEBUCHI, Jiro KAKUTANI, Leo MATSUOKA, Shinichi NAMBA, **<u>Keisuke FUJII</u>**, Taiichi SHIKAMA, Masahiro HASUO  
+ *Plasma and Fusion Research* **13,** 3406070-3406070 (2018)  
+<a href="https://doi.org/10.1585/pfr.13.3406070">10.1585/pfr.13.3406070</a>  
 
 23. **Extension of the operational regime of the LHD towards a deuterium experiment**  
  Y. Takeiri, T. Morisaki, M. Osakabe, M. Yokoyama, S. Sakakibara, H. Takahashi, Y. Nakamura, T. Oishi, G. Motojima, S. Murakami, K. Ito, A. Ejiri, S. Imagawa, S. Inagaki, M. Isobe, S. Kubo, S. Masamune, T. Mito, I. Murakami, K. Nagaoka, K. Nagasaki, K. Nishimura, M. Sakamoto, R. Sakamoto, T. Shimozuma, K. Shinohara, H. Sugama, K.Y. Watanabe, J.W. Ahn, N. Akata, T. Akiyama, N. Ashikawa, J. Baldzuhn, T. Bando, E. Bernard, F. Castejón, H. Chikaraishi, M. Emoto, T. Evans, N. Ezumi, **<u>K. Fujii</u>**, H. Funaba, M. Goto, T. Goto, D. Gradic, Y. Gunsu, S. Hamaguchi, H. Hasegawa, Y. Hayashi, C. Hidalgo, T. Higashiguchi, Y. Hirooka, Y. Hishinuma, R. Horiuchi, K. Ichiguchi, K. Ida, T. Ido, H. Igami, K. Ikeda, S. Ishiguro, R. Ishizaki, A. Ishizawa, A. Ito, Y. Ito, A. Iwamoto, S. Kamio, K. Kamiya, O. Kaneko, R. Kanno, H. Kasahara, D. Kato, T. Kato, K. Kawahata, G. Kawamura, M. Kisaki, S. Kitajima, W.H. Ko, M. Kobayashi, S. Kobayashi, T. Kobayashi, K. Koga, A. Kohyama, R. Kumazawa, J.H. Lee, D. López-Bruna, R. Makino, S. Masuzaki, Y. Matsumoto, H. Matsuura, O. Mitarai, H. Miura, J. Miyazawa, N. Mizuguchi, C. Moon, S. Morita, T. Moritaka, K. Mukai, T. Muroga, S. Muto, T. Mutoh, T. Nagasaka, Y. Nagayama, N. Nakajima, Y. Nakamura, H. Nakanishi, H. Nakano, M. Nakata, Y. Narushima, D. Nishijima, A. Nishimura, S. Nishimura, T. Nishitani, M. Nishiura, Y. Nobuta, H. Noto, M. Nunami, T. Obana, K. Ogawa, S. Ohdachi, M. Ohno, N. Ohno, H. Ohtani, M. Okamoto, Y. Oya, T. Ozaki, B.J. Peterson, M. Preynas, S. Sagara, K. Saito, H. Sakaue, A. Sanpei, S. Satake, M. Sato, T. Saze, O. Schmitz, R. Seki, T. Seki, I. Sharov, A. Shimizu, M. Shiratani, M. Shoji, C. Skinner, R. Soga, T. Stange, C. Suzuki, Y. Suzuki, S. Takada, K. Takahata, A. Takayama, S. Takayama, Y. Takemura, Y. Takeuchi, H. Tamura, N. Tamura, H. Tanaka, K. Tanaka, M. Tanaka, T. Tanaka, Y. Tanaka, S. Toda, Y. Todo, K. Toi, M. Toida, M. Tokitani, T. Tokuzawa, H. Tsuchiya, T. Tsujimura, K. Tsumori, S. Usami, J.L. Velasco, H. Wang, T.-H. Watanabe, T. Watanabe, J. Yagi, M. Yajima, H. Yamada, I. Yamada, O. Yamagishi, N. Yamaguchi, Y. Yamamoto, N. Yanagi, R. Yasuhara, E. Yatsuka, N. Yoshida, M. Yoshinuma, S. Yoshimura, Y. Yoshimura  
@@ -300,15 +300,15 @@ layout: publications
  *Review of Scientific Instruments* **84,** 073509 (2013)  
 <a href="https://doi.org/10.1063/1.4815721">10.1063/1.4815721</a>  
 
-34. **Evaluation of particle source rate and its influence on particle transport in fusion plasma**  
- M Goto, K Sawada, **<u>K Fujii</u>**, M Hasuo, S Morita  
- *Journal of Physics: Conference Series* **397,** 012023 (2012)  
-<a href="https://doi.org/10.1088/1742-6596/397/1/012023">10.1088/1742-6596/397/1/012023</a>  
-
-35. **Wideband High-Resolution Spectroscopy on Al-pellet Ablation Plasmas in Large Helical Device**  
+34. **Wideband High-Resolution Spectroscopy on Al-pellet Ablation Plasmas in Large Helical Device**  
  M Hasuo, **<u>K Fujii</u>**, T Shikama, S Morita, M Goto, H Tanaka  
  *Journal of Physics: Conference Series* **397,** 012016 (2012)  
 <a href="https://doi.org/10.1088/1742-6596/397/1/012016">10.1088/1742-6596/397/1/012016</a>  
+
+35. **Evaluation of particle source rate and its influence on particle transport in fusion plasma**  
+ M Goto, K Sawada, **<u>K Fujii</u>**, M Hasuo, S Morita  
+ *Journal of Physics: Conference Series* **397,** 012023 (2012)  
+<a href="https://doi.org/10.1088/1742-6596/397/1/012023">10.1088/1742-6596/397/1/012023</a>  
 
 36. **A simultaneous measurement of polarization-resolved spectra of neutral helium 23P–33D, 21P–31D and 23P–33S emissions from the periphery of a Large Helical Device plasma**  
  K Mizushiri, **<u>K Fujii</u>**, T Shikama, A Iwamae, M Goto, S Morita, M Hasuo  
